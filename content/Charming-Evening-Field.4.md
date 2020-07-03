@@ -6,6 +6,7 @@ type: "post"
 image: "images/masonary-post/post-5.jpg"
 categories: 
   - "Food"
+  - "Finance"
 tags:
   - "Photos"
   - "Food"
