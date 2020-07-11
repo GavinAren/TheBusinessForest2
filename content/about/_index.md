@@ -31,3 +31,4 @@ neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iust
 similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
 dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
 iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+{{ template "_internal/disqus.html" . }}

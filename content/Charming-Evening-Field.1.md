@@ -43,3 +43,4 @@ ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eiu
 labore et dolore magnam aliquam quaerat voluptatem.
 
 
+{{ template "_internal/disqus.html" . }}
