@@ -1,5 +1,5 @@
 +++
-avatar = "/images/profile-picture-gavin.jpg"
+avatar = "/images/gavin-aren.jpg"
 bio = ""
 in_home = true
 layout = "team"
